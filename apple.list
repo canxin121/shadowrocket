@@ -1,0 +1,9 @@
+DOMAIN-KEYWORD,apple,PROXY
+DOMAIN-SUFFIX,apple.com,PROXY
+DOMAIN-SUFFIX,ess.apple.com,PROXY
+DOMAIN,configuration.apple.com,PROXY
+DOMAIN,smp-device-content.apple.com,PROXY
+DOMAIN-SUFFIX,push.apple.com,PROXY
+DOMAIN,guzzoni.apple.com,PROXY
+DOMAIN-SUFFIX,ess.apple.com123,PROXY
+DOMAIN,xp.apple.com,PROXY
